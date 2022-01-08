@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](./design/desctop-design.jpg)
+![Preview](design/desctop-design.jpg)
 
 ### Links
 
