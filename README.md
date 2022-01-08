@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](/design/desctop-design.jpg)
+![Preview](./design/desctop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/bannnned/frontmentor-nft)
+- Live Site URL: [GitHub Pages](https://bannnned.github.io/frontmentor-nft/)
 
 ## Built with
 
