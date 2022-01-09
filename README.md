@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](/frontmentor-nft/design/desctop-design.jpg)
+![Preview](https://github.com/bannnned/frontmentor-nft/blob/main/design/desktop-design.jpg)
 
 ### Links
 
