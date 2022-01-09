@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](frontmentor-nft/design/desctop-design.jpg)
+![Preview](/frontmentor-nft/design/desctop-design.jpg)
 
 ### Links
 
